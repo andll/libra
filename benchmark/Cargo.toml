@@ -35,3 +35,4 @@ vm_genesis = { path = "../language/vm/vm_genesis" }
 
 [dev-dependencies]
 nextgen_crypto = { path = "../crypto/nextgen_crypto", features = ["testing"] }
+libra_swarm = { path = "../libra_swarm", features = ["testing"]}
